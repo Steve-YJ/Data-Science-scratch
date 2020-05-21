@@ -1,8 +1,10 @@
 # Data-Science-scratch
 Learning Data Science from scratch<br>
 
-* Inspired by Ken Jee<br>
-  * https://www.youtube.com/watch?v=Ip50cXvpWY4<br>
+* Inspired by Ken's video<br>
+  * Ken Jee(Data Scientist): <a src="https://www.youtube.com/watch?v=Ip50cXvpWY4">Click here</a><br>
+  
+  
 
 * Course 1: Kaggle Data Science Micro Courses - These courses are through the kaggle platform and introduce you to the basics of python, machine learning and deep learning. I like this course because it can help you to get started on data science projects as quickly as possible.
   * Link: [https://www.kaggle.com/learn/overview](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.kaggle.com%2Flearn%2Foverview&redir_token=DelVt51UDpdoX_TBjxydcdmHTJF8MTU5MDA3NzI5M0AxNTg5OTkwODkz&event=video_description&v=Ip50cXvpWY4)
