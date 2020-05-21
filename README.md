@@ -20,8 +20,8 @@ Learning Data Science from scratch<br>
 
 * Fast.Ai Python Learning Recommendations:
 
-[https://forums.fast.ai/t/recommended-...](https://www.youtube.com/redirect?q=https%3A%2F%2Fforums.fast.ai%2Ft%2Frecommended-python-learning-resources%2F26888&redir_token=DelVt51UDpdoX_TBjxydcdmHTJF8MTU5MDA3NzI5M0AxNTg5OTkwODkz&event=video_description&v=Ip50cXvpWY4)
+  * [https://forums.fast.ai/t/recommended-...](https://www.youtube.com/redirect?q=https%3A%2F%2Fforums.fast.ai%2Ft%2Frecommended-python-learning-resources%2F26888&redir_token=DelVt51UDpdoX_TBjxydcdmHTJF8MTU5MDA3NzI5M0AxNTg5OTkwODkz&event=video_description&v=Ip50cXvpWY4)
 
 * Bonus link for learning python:
 
-[https://wiki.python.org/moin/Beginner...](https://www.youtube.com/redirect?q=https%3A%2F%2Fwiki.python.org%2Fmoin%2FBeginnersGuide%2FProgrammers&redir_token=DelVt51UDpdoX_TBjxydcdmHTJF8MTU5MDA3NzI5M0AxNTg5OTkwODkz&event=video_description&v=Ip50cXvpWY4)
+  * [https://wiki.python.org/moin/Beginner...](https://www.youtube.com/redirect?q=https%3A%2F%2Fwiki.python.org%2Fmoin%2FBeginnersGuide%2FProgrammers&redir_token=DelVt51UDpdoX_TBjxydcdmHTJF8MTU5MDA3NzI5M0AxNTg5OTkwODkz&event=video_description&v=Ip50cXvpWY4)
