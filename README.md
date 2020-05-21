@@ -2,7 +2,7 @@
 Learning Data Science from scratch<br>
 
 * Inspired by Ken's video<br>
-  * Ken Jee(Data Scientist): <a href="https://www.youtube.com/watch?v=Ip50cXvpWY4">Click here</a><br>
+  * Ken Jee(Data Scientist): <a href="https://www.youtube.com/watch?v=Ip50cXvpWY4", target="_blank">Click here</a><br>
   
   
 
