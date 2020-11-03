@@ -4,7 +4,7 @@ Learning Data Science from scratch<br>
 * Inspired by Ken's video<br>
   * Ken Jee(Data Scientist): <a href="https://www.youtube.com/watch?v=Ip50cXvpWY4" target="_blank">Click here</a><br>
 * <code>+Plus+</code>Coursera
- * Want to Study Deep and Exactly
+  * Want to Study Deep and Exactly
 ---
 
 ## Course 1: Kaggle Data Science Micro Courses
